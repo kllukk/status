@@ -22,3 +22,60 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  activeIncidents: Aktivní problémy
+  allSystemsOperational: Všechny služby jsou funkční
+  incidentReport: "Zpráva o problému #$NUMBER →"
+  activeIncidentSummary: Otevřeno $DATE s $POSTS příspěvky
+  incidentTitle: Detaily problému $NUMBER
+  incidentDetails: Detaily problému
+  incidentFixed: Vyřešeno
+  incidentOngoing: Probíhá řešení
+  incidentOpenedAt: Otevřeno
+  incidentClosedAt: Zavřeno
+  incidentSubscribe: Odebírat novinky
+  incidentViewOnGitHub: Zobrazit na Githubu
+  incidentCommentSummary: Zveřejňeno $DATE ($AUTHOR)
+  incidentBack: ← Zpět na seznam problémů
+  pastIncidents: Problémy v minulosti
+  pastIncidentsResolved: Vyřešeno za $MINUTES minut s $POSTS příspěvky
+  liveStatus: Nynější stav
+  overallUptime: "Celkový funkční stav: $UPTIME"
+  overallUptimeTitle: Celkový funkční stav
+  averageResponseTime: "Průměrný čas odpovědi: $TIMEms"
+  averageResponseTimeTitle: Průměrný čas odpovědi
+  sevelDayResponseTime: Sedmidenní průměrný čas odpovědi
+  responseTimeMs: Čas odpovědi (ms)
+  up: Funkční
+  down: Nefunkční
+  degraded: Degradováno
+  ms: ms
+  loading: Načítáné
+  navGitHub: GitHub
+  footer: Tato stránka je postavena na Upptime.
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Nastala chyba
+  errorIntro: Nastala chyba při zjišťování stavu systému.
+  errorText: Zkuste to za chvilku znovu.
+  errorHome: Zpět na domovskou stránku.
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Started at
+  startsAt: Starts at
+  duration: Duration
+  durationMin: $DURATION minutes
+  incidentCompleted: Hotovo
+  incidentScheduled: Naplánováno

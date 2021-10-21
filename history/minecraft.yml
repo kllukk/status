@@ -1,7 +1,7 @@
 url: http://play.ondrejaugusta.cz:8123
-status: down
-code: 404
-responseTime: 2813
-lastUpdated: 2021-10-21T13:24:25.504Z
+status: up
+code: 200
+responseTime: 1513
+lastUpdated: 2021-10-21T13:37:56.774Z
 startTime: Wed Oct 13 2021 19:19:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

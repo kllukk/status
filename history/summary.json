@@ -4,7 +4,7 @@
     "url": "https://ondrejaugusta.cz",
     "icon": "https://favicons.githubusercontent.com/ondrejaugusta.cz",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1116,
     "timeYear": 1095,
     "dailyMinutesDown": {
+      "2021-11-26": 0,
       "2021-11-22": 17,
       "2021-11-05": 35
     }
@@ -26,15 +27,15 @@
     "icon": "https://favicons.githubusercontent.com/play.ondrejaugusta.cz",
     "slug": "minecraft",
     "status": "up",
-    "uptime": "71.96%",
+    "uptime": "72.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.18%",
-    "uptimeYear": "71.96%",
+    "uptimeMonth": "64.22%",
+    "uptimeYear": "72.45%",
     "time": 2562,
     "timeDay": 904,
     "timeWeek": 829,
-    "timeMonth": 2915,
+    "timeMonth": 2965,
     "timeYear": 2562,
     "dailyMinutesDown": {
       "2021-11-17": 662,
